@@ -6,18 +6,18 @@ The car can be wirelessly controlled from a smartphone via Bluetooth commands.
 ---
 
 ## 📌 Table of Contents
-- Overview
-- Problem Statement
-- Project Features
-- Hardware Components
-- Circuit Diagram
-- Folder Structure
-- How It Works
-- How to Run the Project
-- Demo Video
-- Results
-- Future Improvements
-- Author
+- <a href="#overview">Overview</a>
+- <a href="#problem-statement">Problem Statement</a>
+- <a href="#project-features">Project Features</a>
+- <a href="#hardware-components">Hardware Components</a>
+- <a href="#circuit-diagram">Circuit Diagram</a>
+- <a href="#folder-structure">Folder Structure</a>
+- <a href="#how-it-works">How It Works</a>
+- <a href="#how-to-run-the-project">How to Run the Project</a>
+- <a href="#demo-video">Demo Video</a>
+- <a href="#results">Results</a>
+- <a href="#future-improvements">Future Improvements</a>
+- <a href="#author">Author</a>
 
 ---
 
@@ -71,19 +71,23 @@ This project aims to build a **low-cost wireless control system** using Bluetoot
 
 ## 📁 Folder Structure
 
-```txt
-RC Car/
-├── code/
+```
+bluetooth-controlled-rc-car/
+│
+├── README.md
+├── requirements.txt
+│
+├── code/                         # Arduino source code
 │   └── bluetooth_controlled_rc_car_arduino_nano/
 │       └── Bluetooth_Controlled_RC_Car_Arduino_Nano.ino
 │
-├── hardware/
+├── hardware/                     # Hardware-related files
 │   ├── components/
 │   │   └── components_list.md
 │   └── diagram/
 │       └── circuit_diagram.png
 │
-├── media/
+├── media/                        # Images & demo
 │   ├── car_photo/
 │   │   ├── rc_car_front.jpg
 │   │   ├── rc_car_back.jpg
@@ -91,13 +95,10 @@ RC Car/
 │   │   └── rc_car_hc05_arduino_nano_placement.jpg
 │   └── demo_video_link.txt
 │
-├── report/
+├── report/                       # Project documentation
 │   └── bluetooth_controlled_rc_car_using_arduino_nano.pdf
-│
-├── README.md
-└── requirements.txt
 
----
+```
 
 ## ⚙️ How It Works
 
@@ -156,14 +157,8 @@ Check `media/demo_video_link.txt`
 **Janmejoy Chakraborty**  
 Electronics & Communication Engineering  
 📧 Email: janmejoychakraborty1020@gmail.com  
-
+🔗 LinkedIn: [Janmejoy Chakraborty](https://www.linkedin.com/in/janmejoy-chakraborty-8a9164319/)
 
 ---
 
 ⭐ If you like this project, don’t forget to **star the repository**!
-
-
-
-
-
-
