@@ -157,7 +157,6 @@ Check `media/demo_video_link.txt`
 Electronics & Communication Engineering  
 
 📧 Email: your_email@gmail.com  
-🔗 LinkedIn: [Janmejoy Chakraborty](https://www.linkedin.com/in/janmejoy-chakraborty-8a9164319/)
 
 
 ---
