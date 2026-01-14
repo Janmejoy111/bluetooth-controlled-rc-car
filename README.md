@@ -155,7 +155,7 @@ Check `media/demo_video_link.txt`
 
 **Janmejoy Chakraborty**  
 Electronics & Communication Engineering  
-📧 Email: your_email@gmail.com  
+📧 Email: janmejoychakraborty1020@gmail.com  
 
 
 ---
