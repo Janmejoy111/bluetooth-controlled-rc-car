@@ -155,8 +155,10 @@ Check `media/demo_video_link.txt`
 
 **Janmejoy Chakraborty**  
 Electronics & Communication Engineering  
-📧 Email: janmejoychakraborty1020@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/janmejoy-chakraborty-8a9164319
+
+📧 Email: your_email@gmail.com  
+🔗 LinkedIn: [Janmejoy Chakraborty](https://www.linkedin.com/in/janmejoy-chakraborty-8a9164319/)
+
 
 ---
 
