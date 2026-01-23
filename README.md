@@ -130,7 +130,7 @@ bluetooth-controlled-rc-car/
 ## 🎥 Demo Video
 
 📹 Watch the working demo here:  
-Check `media/demo_video_link.txt`
+Check `https://drive.google.com/file/d/1iK6NGJ-v9SvDZTPyhHBoIUB2fLytH-Kt/view?usp=drivesdk`
 
 ---
 
